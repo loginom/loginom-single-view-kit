@@ -1,7 +1,7 @@
 # Loginom Single View Kit CE
 
-* Версия: 3.0.1
-* Проверено: Loginom CE 7.0.2
+* Версия: 3.1.0
+* Проверено: Loginom CE 7.3.1
 
 Компоненты библиотеки **Loginom Single View Kit CE** предназначены для формирования профиля клиента с целью дальнейшей аналитической обработки и позволяют рассчитать:
 
@@ -22,7 +22,7 @@
 
 * Loginom Community Edition. Коммерческие версии Loginom не поддерживаются;
 
-* Библиотека **Loginom Silver Kit** ([скачать на GitHub](https://github.com/loginom/loginom-silver-kit)). Версия не ниже 3.0.0.
+* Библиотека **Loginom Silver Kit** ([скачать на GitHub](https://github.com/loginom/loginom-silver-kit)). Версия не ниже 3.2.0.
 
 ## Порядок установки
 
